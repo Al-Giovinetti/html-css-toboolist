@@ -3,14 +3,17 @@
     padding: 0;
     box-sizing: border-box}
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
 header{
     border: 1px solid black;
     padding: 10px;}
     
 h1{
     display: inline;
-    line-height: 50px;
-    font-size: 40px;}
+    font-size: 40px;
+    padding-top: 30px;}
 
 #logo{
     vertical-align: middle;}
@@ -41,6 +44,10 @@ ul{
 li{
     padding: 10px;}
 
+.title{
+    font-size: 25px;
+}
+
 .check{
     border: 1px solid green;
     border-radius: 50%;
@@ -64,7 +71,8 @@ li{
     color: white;}
 
 .bg_blue{
-    background-color: aqua;}
+    background-color: aqua;
+    color: white;}
 
 .bg_purple{
     background-color: purple;}
