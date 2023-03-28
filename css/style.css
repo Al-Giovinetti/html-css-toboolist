@@ -15,3 +15,28 @@ h1{
 #logo{
     vertical-align: middle;}
 
+main{
+    background-color: red;
+    margin: 5% 20% 10%;}
+
+.box{
+    background-color:magenta;
+    border: 1px solid black;
+    padding-left: 40px;}
+
+.add{
+    padding: 20px 0px;}
+
+button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: white;}
+
+.bg_blue{
+    background-color: aqua;
+    color:white;
+    }
+
+
+
