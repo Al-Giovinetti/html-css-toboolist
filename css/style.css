@@ -34,15 +34,30 @@ button{
     background-color: white;
     padding: 20px 20px;}
 
-ul{text-decoration: none;}
+ul{
+    list-style-type: none;}
 
-.bg_blue{
-    background-color: aqua;
-    color:white;}
+li{
+    padding: 10px;}
 
-.circle{
+.check{
     border: 1px solid green;
     border-radius: 50%;}
 
+.forma{
+    width: 80px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    color: white;}
+
+.bg_blue{
+    background-color: aqua;}
+
+.bg_purple{
+    background-color: purple;
+
+}
 
 
