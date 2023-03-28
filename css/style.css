@@ -17,15 +17,12 @@ h1{
 
 main{
     background-color: red;
-    margin: 5% 20% 10%;}
-
-.box{
-    background-color:magenta;
-    border: 1px solid black;
-    padding-left: 40px;}
+    padding: 5% 20% 10%;}
 
 .add{
-    padding: 20px 0px;}
+    padding: 20px 0px;
+    margin-bottom: 5px;
+    border: 1px solid black;}
 
 button{
     width: 100px;
@@ -35,8 +32,12 @@ button{
 
 .bg_blue{
     background-color: aqua;
-    color:white;
-    }
+    color:white;}
+
+.circle{
+    border: 1px solid green;
+    border-radius: 50%;
+}
 
 
 
